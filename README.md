@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I'm Mike</h1>
 <h3 align="center">A passionate frontend developer from the Black-forest in Germany</h3>
 <img align="right“ alt="Coding“ width="400“ src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif“>
@@ -13,17 +13,19 @@
 
 - ⚡ Fun fact: **An ostrich's eye is bigger than its brain**
 
-- Few Projects from my full-stack course at SuperCode -
+o - Few Projects from my full-stack course at SuperCode -
 
-SuperCode Cluedo Game
+- SuperCode Cluedo Game
 <a href="mikex95.github.io/supercode-cluedo-game/"> SuperCode Cluedo Game Website </a>
+
 <a href="https://github.com/Mikex95/supercode-cluedo-game"> See the Code </a>
 
-SuperCode Pokemon Team Project (React.js)
+- SuperCode Pokemon Team Project (React.js)
 <a href="https://github.com/Mikex95/pokemon-app"> See the Code </a>
 
-SuperCode Rock Paper Scissors Game (HTML, CSS, Javascript) 
+- SuperCode Rock Paper Scissors Game (HTML, CSS, Javascript) 
 <a href="https://mikex95.github.io/rock-paper-scissors-game/"> SuperCode Rock Paper Scissors </a>
+
 <a href="https://github.com/Mikex95/rock-paper-scissors-game"> See the Code </a>
 
 
