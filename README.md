@@ -1,16 +1,31 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hello 👋, I'm Mike</h1>
 <h3 align="center">A passionate frontend developer from the Black-forest in Germany</h3>
 <img align="right“ alt="Coding“ width="400“ src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif“>
 
-- 🔭 I’m currently working on [React.js projects](https://github.com/Mikex95/pokemon-app)
+- 🔭 I’m currently working on: [React.js projects](https://github.com/Mikex95/pokemon-app)
 
-- 🌱 I’m currently learning **Javascript and React.js**
+- 🌱 I’m currently learning: **Javascript and React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mikex95/super-code-projects](https://github.com/Mikex95/super-code-projects)
+- 👨‍💻 All of my projects are available at: [https://github.com/Mikex95/super-code-projects](https://github.com/Mikex95/super-code-projects)
 
-- 📫 How to reach me **https://www.linkedin.com/in/mike-be-a711b41b2/**
+- 📫 How to reach me: **https://www.linkedin.com/in/mike-be-a711b41b2/**
 
-- ⚡ Fun fact **An ostrich's eye is bigger than its brain**
+- ⚡ Fun fact: **An ostrich's eye is bigger than its brain**
+
+- Few Projects from my full-stack course at SuperCode -
+
+SuperCode Cluedo Game
+<a href="mikex95.github.io/supercode-cluedo-game/"> SuperCode Cluedo Game Website </a>
+<a href="https://github.com/Mikex95/supercode-cluedo-game"> See the Code </a>
+
+SuperCode Pokemon Team Project (React.js)
+<a href="https://github.com/Mikex95/pokemon-app"> See the Code </a>
+
+SuperCode Rock Paper Scissors Game (HTML, CSS, Javascript) 
+<a href="https://mikex95.github.io/rock-paper-scissors-game/"> SuperCode Rock Paper Scissors </a>
+<a href="https://github.com/Mikex95/rock-paper-scissors-game"> See the Code </a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
