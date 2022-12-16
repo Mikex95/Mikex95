@@ -21,13 +21,13 @@
 
 <hr>
 
-- SuperCode Pokemon Team Project (React.js) 🦄 
+- SuperCode Team Project: Pokemon App (React.js) 🦄 
 <a href="https://iridescent-maamoul-d8c323.netlify.app"> <br> Website</a>
 <a href="https://github.com/Mikex95/pokemon-app"><br> See the Code </a>
 
 <hr>
 
-- Supercode Beer App Team Project (Api Test with React.js) 🍺
+- Supercode Team Project: Beer App (API-Fetch test with React.js) 🍺
 <a href="https://beer-api-supercode.netlify.app"> <br> Website</a>
 <a href="https://github.com/Mikex95/project-beer-api"><br> See the Code </a>
 
@@ -51,7 +51,7 @@
 
 <hr>
 
-- SuperCode Landingpage with Animation (HTML, CSS) 
+- SuperCode Landingpage with Animation (HTML, CSS) 🔥
 <a href="https://mikex95.github.io/Flying-dude"> <br> Website </a>
 <a href="https://github.com/Mikex95/Flying-dude"> <br> See the Code </a>
 
