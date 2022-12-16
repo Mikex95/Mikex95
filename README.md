@@ -28,7 +28,7 @@
 <hr>
 
 - SuperCode Cluedo Game (HTML, CSS, Javascript) 
-<a href="mikex95.github.io/supercode-cluedo-game/"> <br> Website </a>
+<a href="https://mikex95.github.io/supercode-cluedo-game"> <br> Website </a>
 <a href="https://github.com/Mikex95/supercode-cluedo-game"> <br> See the Code </a>
 
 <hr>
