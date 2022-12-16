@@ -43,6 +43,13 @@
 <a href="https://mikex95.github.io/super-code-shop/"> <br> Website </a>
 <a href="https://github.com/Mikex95/super-code-shop"> <br> See the Code </a>
 
+<hr>
+
+- SuperCode Landingpage with Animation (HTML, CSS) 
+<a href="https://mikex95.github.io/Flying-dude"> <br> Website </a>
+<a href="https://github.com/Mikex95/Flying-dude"> <br> See the Code </a>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
