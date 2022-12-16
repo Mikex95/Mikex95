@@ -15,31 +15,33 @@
 
 <hr>
 
+- SuperCode Team Project: E-Shop App with (React.js)
+<a href="https://clever-sundae-d6080b.netlify.app"> <br> Website</a> 
+<a href="https://github.com/Mikex95/e-commerce-shop"> <br> See the Code </a>
+
+<hr>
+
 - SuperCode Pokemon Team Project (React.js)
-<a href="https://github.com/Mikex95/pokemon-app"> <br> See the Code </a>
+<a href="https://iridescent-maamoul-d8c323.netlify.app"> <br> Website</a>
+<a href="https://github.com/Mikex95/pokemon-app"><br> See the Code </a>
 
 <hr>
 
 - SuperCode Cluedo Game (HTML, CSS, Javascript) 
-<a href="mikex95.github.io/supercode-cluedo-game/"> 
-Website </a>
+<a href="mikex95.github.io/supercode-cluedo-game/"> <br> Website </a>
 <a href="https://github.com/Mikex95/supercode-cluedo-game"> <br> See the Code </a>
 
 <hr>
 
 - SuperCode Rock Paper Scissors Game (HTML, CSS, Javascript) 
-<a href="https://mikex95.github.io/rock-paper-scissors-game/"> 
-Website </a>
-<a href="https://github.com/Mikex95/rock-paper-scissors-game"> 
-<br> See the Code </a>
+<a href="https://mikex95.github.io/rock-paper-scissors-game/"> <br> Website </a>
+<a href="https://github.com/Mikex95/rock-paper-scissors-game"> <br> See the Code </a>
 
 <hr>
 
 - SuperCode Responsive Shop Landingpage (HTML, CSS) 
-<a href="https://mikex95.github.io/super-code-shop/"> 
-Website </a>
-<a href="https://github.com/Mikex95/super-code-shop"> 
-<br> See the Code </a>
+<a href="https://mikex95.github.io/super-code-shop/"> <br> Website </a>
+<a href="https://github.com/Mikex95/super-code-shop"> <br> See the Code </a>
 
 
 <h3 align="left">Connect with me:</h3>
