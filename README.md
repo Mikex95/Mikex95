@@ -16,7 +16,7 @@
 <hr>
 
 - SuperCode Team Project: E-Shop App with (React.js)
-<a href="https://clever-sundae-d6080b.netlify.app"> <br> Website</a> 
+<a href="https://e-commerce-shop-supercode.netlify.app)"> <br> Website</a> 
 <a href="https://github.com/Mikex95/e-commerce-shop"> <br> See the Code </a>
 
 <hr>
