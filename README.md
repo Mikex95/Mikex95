@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from the Black-forest in Germany</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on: [node.js and express.js projects](https://github.com/Mikex95/pokemon-app)
+- 🔭 I’m currently working on: node.js and express.js projects
 
 - 🌱 I’m currently learning: **Javascript/React.js & node/express.js**
 
