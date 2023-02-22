@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: node.js and express.js projects
 
-- 🌱 I’m currently learning: **Javascript/React.js & Next.js
+- 🌱 I’m currently learning: **Javascript/React.js & Next.js**
 
 - 👨‍💻 All of my projects/learnings/growth from Supercode: <br>
    -> [https://github.com/Mikex95/super-code-projects](https://github.com/Mikex95/super-code-projects)
