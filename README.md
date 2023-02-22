@@ -5,11 +5,12 @@
 
 - 🔭 I’m currently working on: node.js and express.js projects
 
-- 🌱 I’m currently learning: **Javascript/React.js & node/express.js**
+- 🌱 I’m currently learning: **Javascript/React.js & Next.js
 
-- 👨‍💻 All of my projects are available at: [https://github.com/Mikex95/super-code-projects](https://github.com/Mikex95/super-code-projects)
+- 👨‍💻 All of my projects/learnings/growth from Supercode: <br>
+   -> [https://github.com/Mikex95/super-code-projects](https://github.com/Mikex95/super-code-projects)
 
-- 📫 How to reach me: **https://www.linkedin.com/in/mike-be-a711b41b2/**
+- 📫 How to reach me: **www.linkedin.com/in/mike-miller-95x**
 
 - ⚡ Fun fact: **An ostrich's eye is bigger than its brain**
 
