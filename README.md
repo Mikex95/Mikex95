@@ -18,7 +18,9 @@
 
 - SuperCode Abschluss Projekt: GrosShop App v1 with (MERN Stack) 📱
 <a href="https://gros-shop-app.onrender.com/onboarding"> <br> Website</a> 
-<span><p> - Bitte etwas Geduld, free trial von Render.com benötigt etwas Zeit um den Server zu starten 🧘</p>
+<a href="https://github.com/Mikex95/GrosShop"> <br> See the Code </a>
+
+<span><p> - Bitte etwas Geduld, free trial von Render.com benötigt einige Minuten Zeit um den Server zu starten🧘</p>
 
 <hr>
 
