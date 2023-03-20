@@ -36,12 +36,6 @@
 
 <hr>
 
-- Supercode Team Project: Beer App (API-Fetch test with React.js) 🍺
-<a href="https://beer-api-supercode.netlify.app"> <br> Website</a>
-<a href="https://github.com/Mikex95/project-beer-api"><br> See the Code </a>
-
-<hr>
-
 - SuperCode Cluedo Game (HTML, CSS, Javascript) 🃏
 <a href="https://mikex95.github.io/supercode-cluedo-game"> <br> Website </a>
 <a href="https://github.com/Mikex95/supercode-cluedo-game"> <br> See the Code </a>
